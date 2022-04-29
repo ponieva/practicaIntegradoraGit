@@ -1,15 +1,12 @@
 Hola, 
-<<<<<<< HEAD
 Soy Natalia parte integrante de esta dupla maravillosa!
 
 
 le estuve contando a Nat, que viví en Mendoza, del 99 al 2001
 mi ahijada, vive en la 6ta sección
-=======
 Soy Natalia parte integrante de esta dupla maravillosa!!!
 Quiero contarles que estoy cambiando este archivo
 porque eso es lo que me pide la práctica de hoy.
 
 ACÁ VOY A PONER UN TÍTULO PARA VER QUÉ HACE PATO
 ...Se escribirá bajo este título el texto de Pato?
->>>>>>> d29a778bcfd6656407becceb43ddc61819694bd7
